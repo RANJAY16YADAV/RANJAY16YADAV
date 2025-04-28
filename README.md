@@ -1,3 +1,4 @@
+![logo]{https://github.com/RANJAY16YADAV/RANJAY16YADAV/blob/main/banner.png}
 <h1 align="center">Hi 👋, I'm Ranjay Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
