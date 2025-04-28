@@ -1,4 +1,4 @@
-![logo]{https://github.com/RANJAY16YADAV/RANJAY16YADAV/blob/main/Yellow%20Black%20%20Modern%20LinkedIn%20Article%20Cover%20Image.png}
+![logo](https://github.com/RANJAY16YADAV/RANJAY16YADAV/blob/main/Yellow%20Black%20%20Modern%20LinkedIn%20Article%20Cover%20Image.png )
 <h1 align="center">Hi 👋, I'm Ranjay Yadav</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
